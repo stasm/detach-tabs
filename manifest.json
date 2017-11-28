@@ -7,6 +7,10 @@
         "contextMenus",
         "tabs"
     ],
+    "icons": {
+        "48": "icon.svg",
+        "96": "icon.svg"
+    },
     "background": {
         "scripts": [
             "background.js"
