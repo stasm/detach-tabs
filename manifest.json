@@ -3,6 +3,8 @@
     "name": "Detach Tabs",
     "version": "0.0.1",
     "description": "Move multiple tabs to a new window at once.",
+    "author": "Staś Małolepszy",
+    "homepage_url": "https://github.com/stasm/detach-tabs",
     "permissions": [
         "contextMenus",
         "tabs"
