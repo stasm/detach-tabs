@@ -1,0 +1,18 @@
+{
+    "name": {
+        "message": "Detach Tabs",
+        "description": "Name of this extension."
+    },
+    "description": {
+        "message": "Move multiple tabs into a new window.",
+        "description": "Description of this extension."
+    },
+    "detach-to-the-right": {
+        "message": "This Tab and Tabs to the Right",
+        "description": "Tab context menu item."
+    },
+    "detach-same-origin": {
+        "message": "All Tabs from This Origin",
+        "description": "Tab context menu item."
+    }
+}

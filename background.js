@@ -1,13 +1,13 @@
 browser.contextMenus.create({
     id: "detach-tabs-to-the-right",
-    title: "This Tab and Tabs to the Right",
+    title: browser.i18n.getMessage("detach-to-the-right"),
     contexts: ["tab"],
     onclick: detach_tabs_to_the_right
 });
 
 browser.contextMenus.create({
     id: "detach-tabs-same-origin",
-    title: "All Tabs from the Same Origin",
+    title: browser.i18n.getMessage("detach-same-origin"),
     contexts: ["tab"],
     onclick: detach_tabs_same_origin
 });
