@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "Detach Tabs",
+    "version": "0.0.1",
+    "description": "Move multiple tabs to a new window at once.",
+    "permissions": [
+        "contextMenus",
+        "tabs"
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    }
+}
