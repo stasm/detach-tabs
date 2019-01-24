@@ -14,5 +14,9 @@
     "detach-same-origin": {
         "message": "All Tabs from This Origin",
         "description": "Tab context menu item."
+    },
+    "detach-same-origin-across-windows": {
+        "message": "All Tabs from This Origin across All windows",
+        "description": "Tab context menu item."
     }
 }
