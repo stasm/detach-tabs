@@ -1,0 +1,22 @@
+{
+    "name": {
+        "message": "Lossa Flikar",
+        "description": "Name of this extension."
+    },
+    "description": {
+        "message": "Flytta flera flikar till ett nytt fönster.",
+        "description": "Description of this extension."
+    },
+    "detach-to-the-right": {
+        "message": "Denna Flik och Flikar till Vänster",
+        "description": "Tab context menu item."
+    },
+    "detach-same-origin": {
+        "message": "Alla Flikar från Denna Domän",
+        "description": "Tab context menu item."
+    },
+    "detach-same-origin-across-windows": {
+        "message": "Alla Flikar från Denna Domän från Alla Fönster",
+        "description": "Tab context menu item."
+    }
+}
