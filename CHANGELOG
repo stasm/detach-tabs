@@ -1,0 +1,10 @@
+CHANGELOG
+
+0.0.5 (February 18, 2019)
+
+  - A new context menu item has been added to allow detaching all tabs from
+    a given origin from across all open windows.
+
+  - The addon is now localized into Swedish.
+
+Thanks to @iwconfig for both contributions!
